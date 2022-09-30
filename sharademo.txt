@@ -1,2 +1,1 @@
-this is a sample text file
-2 nd line is added in the git main website itself
+This is a new file
